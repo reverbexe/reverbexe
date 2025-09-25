@@ -1,18 +1,61 @@
-<h1 align="center">Hi 👋, I'm Reverb</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# 💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reverbexe&label=Profile%20views&color=0e75b6&style=flat" alt="reverbexe" /> </p>
+**AI Engineer | Full-Stack Developer | Computer Vision Specialist**
 
-- 🔭 I’m currently working on **Plugin**
+Passionate about building intelligent systems that solve real-world problems. I specialize in Python development, machine learning, and creating end-to-end solutions that bridge the gap between cutting-edge technology and practical applications.
 
-- 🌱 I’m currently learning **Java**
+## 🔧 Technologies & Skills
 
-- 💬 Ask me about **HTML,CSS**
+**AI/ML Stack:**
+- Python • TensorFlow • PyTorch • OpenCV • Scikit-learn
+- Computer Vision • NLP • Deep Learning • Data Analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/iamsocoolvro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsocoolvro" height="30" width="40" /></a>
-</p>
+**Full-Stack Development:**
+- JavaScript/TypeScript • React • Node.js • Express
+- MongoDB • PostgreSQL • Docker • AWS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Tools & Platforms:**
+- Git • Linux • Jupyter • REST APIs • CI/CD
+- Heroku • Netlify • Google Cloud Platform
+
+## 🚀 What I'm Currently Working On
+
+- Developing computer vision applications for attendance systems
+- Building AI-powered productivity tools
+- Contributing to open-source machine learning projects
+- Exploring large language models and their practical applications
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 🌟 Featured Projects
+
+### [Face Recognition Attendance System](https://github.com/YOUR_USERNAME/face-attendance)
+Python-based employee attendance system using OpenCV and face recognition with real-time tracking.
+
+### [AI Productivity Assistant](https://github.com/YOUR_USERNAME/ai-assistant) 
+Intelligent task management system with natural language processing capabilities.
+
+### [Real-Time Object Detection](https://github.com/YOUR_USERNAME/object-detection)
+Computer vision application for real-time object recognition using YOLO algorithms.
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Portfolio:** [yourname.dev](https://yourname.dev)
+- **Email:** your.email@domain.com
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
+## 💡 Fun Facts
+
+- Built my first computer vision project to automate attendance tracking
+- Contributed to open-source AI libraries
+- Enjoy solving complex problems with elegant code solutions
+- Always learning new technologies and frameworks
+
+---
+
+⭐ *"First, solve the problem. Then, write the code."* - John Johnson
