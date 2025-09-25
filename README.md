@@ -2,51 +2,61 @@
 
 **AI Engineer | Full-Stack Developer | Computer Vision Specialist**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Hey there! I'm **reverbexe** - a passionate developer building intelligent systems that solve real-world problems. I specialize in Python, JavaScript, and creating end-to-end solutions that bridge cutting-edge technology with practical applications.
 
-Passionate developer building intelligent systems that solve real-world problems. Currently focused on computer vision applications and AI-powered solutions.
+## 🚀 What I'm Currently Working On
+
+- Exploring computer vision and machine learning applications
+- Building AI-powered tools and automation scripts
+- Contributing to open-source projects
+- Learning new frameworks and technologies
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
 ![reverbexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reverbexe&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reverbexe&layout=compact&theme=radical&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=reverbexe&theme=radical&hide_border=true)
-
-</div>
-
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frameworks/Libraries:** React, Node.js, Express, TensorFlow, PyTorch, OpenCV
+## 🎯 Dynamic Quote
 
-**Tools:** Git, Docker, AWS, MongoDB, PostgreSQL, Linux
+<!-- QUOTE_START -->
+<div align="center">
 
-## 🌟 Pinned Repositories
+### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
 
-[![Face Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=reverbexe&repo=face-attendance&theme=radical)](https://github.com/reverbexe/face-attendance)
+</div>
+<!-- QUOTE_END -->
 
-[![AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=reverbexe&repo=ai-assistant&theme=radical)](https://github.com/reverbexe/ai-assistant)
+*✨ Refresh the page for a new quote!*
 
-## 📈 Contribution Graph
+## 📫 Let's Connect
 
-![reverbexe's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=reverbexe&theme=react-dark&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-reverbexe.dev-FF7139?style=for-the-badge)](https://reverbexe.dev)
+[![Email](https://img.shields.io/badge/Email-hello@reverbexe.dev-EA4335?style=for-the-badge)](mailto:hello@reverbexe.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reverbexe)
+
+## 💡 Fun Facts
+
+- Always learning new technologies and frameworks
+- Enjoy solving complex problems with elegant code
+- Passionate about open-source contributions
+- Building my skills in AI and machine learning
 
 ---
 
 <div align="center">
 
-### ⚡ *"Code is like humor. When you have to explain it, it's bad."* 
+![Visitor Count](https://komarev.com/ghpvc/?username=reverbexe&color=blueviolet&style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-reverbexe.dev-FF7139?style=for-the-badge)](https://reverbexe.dev)
-[![Email](https://img.shields.io/badge/Email-hello@reverbexe.dev-EA4335?style=for-the-badge)](mailto:hello@reverbexe.dev)
+*Last updated: {{ date }}*
 
 </div>
