@@ -43,6 +43,7 @@ Hey there! I'm **reverbexe** - a passionate developer building intelligent syste
 [![Portfolio](https://img.shields.io/badge/Portfolio-reverbexe.dev-FF7139?style=for-the-badge)](https://reverbexe.dev)
 [![Email](https://img.shields.io/badge/Email-hello@reverbexe.dev-EA4335?style=for-the-badge)](mailto:hello@reverbexe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reverbexe)
+[![Discord](https://img.shields.io/badge/Discord-reverbcool-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/reverbcool)
 
 ## 💡 Fun Facts
 
