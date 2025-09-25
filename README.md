@@ -1,15 +1,15 @@
 # 💻 About Me
 
-**AI Engineer | Full-Stack Developer | Computer Vision Specialist**
+**Java Developer | Backend Specialist | Software Engineer**
 
-Hey there! I'm **reverbexe** - a passionate developer building intelligent systems that solve real-world problems. I specialize in Python, JavaScript, and creating end-to-end solutions that bridge cutting-edge technology with practical applications.
+Hey there! I'm **reverbexe** - a passionate Java developer focused on building robust backend systems and scalable applications. I specialize in Java development, Spring Framework, and creating efficient solutions that handle real-world challenges.
 
 ## 🚀 What I'm Currently Working On
 
-- Exploring computer vision and machine learning applications
-- Building AI-powered tools and automation scripts
-- Contributing to open-source projects
-- Learning new frameworks and technologies
+- Building RESTful APIs with Spring Boot
+- Learning microservices architecture and cloud deployment
+- Contributing to open-source Java projects
+- Exploring system design and database optimization
 
 ## 📊 GitHub Stats
 
@@ -19,38 +19,55 @@ Hey there! I'm **reverbexe** - a passionate developer building intelligent syste
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎯 Dynamic Quote
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-<!-- QUOTE_START -->
+## 🎯 Today's Quote
+
 <div align="center">
 
 ### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
 
 </div>
-<!-- QUOTE_END -->
 
-*✨ Refresh the page for a new quote!*
+*Check back soon for new projects!*
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-reverbexe.dev-FF7139?style=for-the-badge)](https://reverbexe.dev)
-[![Email](https://img.shields.io/badge/Email-hello@reverbexe.dev-EA4335?style=for-the-badge)](mailto:hello@reverbexe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reverbexe)
+[![Email](https://img.shields.io/badge/Email-reverbcool@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reverbcool@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-reverbcool-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/reverbcool)
+
+## 💻 Current Learning Path
+
+- **Advanced Java Concepts** (Multithreading, JVM internals)
+- **Spring Ecosystem** (Spring Security, Spring Data)
+- **System Design Principles**
+- **Database Performance Optimization**
+
+## 🏆 Achievements
+
+![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## 💡 Fun Facts
 
-- Always learning new technologies and frameworks
-- Enjoy solving complex problems with elegant code
-- Passionate about open-source contributions
-- Building my skills in AI and machine learning
+- Passionate about clean code and design patterns
+- Enjoy solving complex algorithmic challenges
+- Always exploring new Java features and best practices
+- Believe in writing maintainable, scalable code
 
 ---
 
@@ -58,6 +75,6 @@ Hey there! I'm **reverbexe** - a passionate developer building intelligent syste
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=reverbexe&color=blueviolet&style=flat-square)
 
-*Last updated: {{ date }}*
+*"The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation."* - Leo Cherne
 
 </div>
