@@ -13,9 +13,9 @@ Hey there! I'm **reverbexe** - a passionate Java developer focused on building r
 
 ## 📊 GitHub Stats
 
-![reverbexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reverbexe&show_icons=true&theme=radical&hide_border=true)
+![reverbexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reverbexe&show_icons=true&theme=radical&hide_border=true&hide=prs,issues&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reverbexe&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reverbexe&layout=compact&theme=radical&hide_border=true&exclude_repo=minecraft-plugins,mc-function-projects&hide=mcfunction,javascript,python)
 
 ## 🛠️ Tech Stack
 
@@ -43,31 +43,36 @@ Hey there! I'm **reverbexe** - a passionate Java developer focused on building r
 
 </div>
 
-*Check back soon for new projects!*
+*Check back soon for new Java projects!*
 
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-reverbcool@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reverbcool@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-reverbcool-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/reverbcool)
 
-## 💻 Current Learning Path
+## 💻 Current Java Projects
 
-- **Advanced Java Concepts** (Multithreading, JVM internals)
-- **Spring Ecosystem** (Spring Security, Spring Data)
-- **System Design Principles**
-- **Database Performance Optimization**
+### 🔥 [Employee Management System](https://github.com/reverbexe/employee-management-system)
+A comprehensive Java-based employee management system with SQLite database and attendance tracking.
 
-## 🏆 Achievements
+### 🚀 [Spring Boot REST API](https://github.com/reverbexe/spring-boot-api) 
+Building scalable RESTful APIs with Spring Boot and Hibernate.
 
-![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+### ⚡ [Java Algorithms](https://github.com/reverbexe/java-algorithms)
+Collection of data structures and algorithms implemented in Java.
 
-## 💡 Fun Facts
+## 🏆 Java Achievements
 
-- Passionate about clean code and design patterns
-- Enjoy solving complex algorithmic challenges
-- Always exploring new Java features and best practices
-- Believe in writing maintainable, scalable code
+![Java 11](https://img.shields.io/badge/Java-11-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Certified](https://img.shields.io/badge/Spring-Certified-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-FF6C37?style=flat-square&logo=rest&logoColor=white)
+
+## 💡 Java Fun Facts
+
+- Passionate about clean code and design patterns in Java
+- Enjoy solving complex algorithmic challenges with Java
+- Always exploring new Java features (Records, Pattern Matching, etc.)
+- Believe in writing maintainable, scalable Java applications
 
 ---
 
@@ -75,6 +80,8 @@ Hey there! I'm **reverbexe** - a passionate Java developer focused on building r
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=reverbexe&color=blueviolet&style=flat-square)
 
-*"The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation."* - Leo Cherne
+*"In Java, we don't solve problems. We create object-oriented solutions."* 
+
+**⭐ Star my Java repositories if you find them helpful!**
 
 </div>
